@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Gitlink</string>
+
+    <!--  HOME SCREEN  -->
+    <string name="profile_image_placeholder">Imagem de perfil do usuário</string>
+    <string name="profile_action_placeholder">Interagir</string>
+    <string name="profile_button_label">Resetar</string>
+    <string name="profile_menu_item_bio">Biografia</string>
+    <string name="profile_menu_item_bio_sub">Um pouco sobre o usuário</string>
+    <string name="profile_menu_item_repos">Repositórios</string>
+    <string name="profile_menu_item_repos_sub">Lista contendo todos os repositórios</string>
 </resources>
